@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20000,
+    "errorCount" : 8567,
+    "errorPct" : 42.835,
+    "meanResTime" : 42792.02014999988,
+    "medianResTime" : 38924.0,
+    "minResTime" : 7.0,
+    "maxResTime" : 127327.0,
+    "pct1ResTime" : 97202.30000000002,
+    "pct2ResTime" : 106922.85,
+    "pct3ResTime" : 116241.52000000008,
+    "throughput" : 75.66414200646173,
+    "receivedKBytesPerSec" : 797.1766516536397,
+    "sentKBytesPerSec" : 12.21860993266837
+  },
+  "Get Task" : {
+    "transaction" : "Get Task",
+    "sampleCount" : 10000,
+    "errorCount" : 8215,
+    "errorPct" : 82.15,
+    "meanResTime" : 66318.40049999993,
+    "medianResTime" : 66955.5,
+    "minResTime" : 27.0,
+    "maxResTime" : 118066.0,
+    "pct1ResTime" : 105511.3,
+    "pct2ResTime" : 110547.14999999998,
+    "pct3ResTime" : 114674.99,
+    "throughput" : 73.42089999339211,
+    "receivedKBytesPerSec" : 1510.661983770769,
+    "sentKBytesPerSec" : 2.060553256308691
+  },
+  "Create Task" : {
+    "transaction" : "Create Task",
+    "sampleCount" : 10000,
+    "errorCount" : 352,
+    "errorPct" : 3.52,
+    "meanResTime" : 19265.63979999995,
+    "medianResTime" : 9956.0,
+    "minResTime" : 7.0,
+    "maxResTime" : 127327.0,
+    "pct1ResTime" : 50348.9,
+    "pct2ResTime" : 64302.0,
+    "pct3ResTime" : 127292.99,
+    "throughput" : 37.856418177137755,
+    "receivedKBytesPerSec" : 18.77997385422818,
+    "sentKBytesPerSec" : 11.164035172398128
+  }
+}
